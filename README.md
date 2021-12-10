@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realcompetentbit
 - 👀 I’m interested in software development
-- 🌱 I’m currentlearning python C++
+- 🌱 I’m currently learning python C++
 - 💞️ I’m looking to collaborate on ...open source C++/Python projects 
 - 📫 How to reach me ...
 
